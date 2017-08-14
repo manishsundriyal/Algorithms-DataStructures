@@ -39,3 +39,5 @@ int main(){
 	// CountSort Function call.
 	return 0;
 }
+//Time Complexity:O(N+RANGE)
+//Space Complexity:O(N+RANGE)
