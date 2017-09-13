@@ -11,7 +11,7 @@ int main(){
 	int No_of_dics;
 	cin>>No_of_dics;
 	char source='S';
-	//source stack
+	//source stack+
 	char dest='D';
 	//destinataion
 	char help='H';
