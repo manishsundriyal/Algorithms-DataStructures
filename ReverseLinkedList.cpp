@@ -65,3 +65,4 @@ int main(){
 	printLL(head);
 	return 0;
 }
+//Time Complexity=O(n)
