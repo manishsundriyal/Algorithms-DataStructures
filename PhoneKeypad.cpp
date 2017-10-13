@@ -1,10 +1,6 @@
 #include <iostream>
 using namespace std;
-const string table[] = {
-	" ", "abc", "def",
-	"ghi", "jkl", "mno",
-	"pqrs", "tuv", "wxyz"
-};
+const string table[] = { " ", ".+@$", "abc", "def", "ghi", "jkl" , "mno", "pqrs" , "tuv", "wxyz" };
 
 void PhoneKeypadCodes(char str[],int index1,char output[],int index2){
 
